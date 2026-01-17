@@ -1,5 +1,4 @@
-```markdown
-### Installation Instructions
+# Installation Instructions
 
 To install the add_tool MCP server , run the following command:
 
